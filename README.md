@@ -87,4 +87,8 @@ python place_recommendation.py
 
 ```
 
+## 📽️ PPT
+
+📁 [Download Presentation - WanderWISE.pdf](https://github.com/user-attachments/files/19720239/WanderWISE.pdf)
+
 Made with ❤️ by Team WanderWise
