@@ -6,15 +6,15 @@ A full-stack AI-powered travel companion that helps users explore the world with
 
 ## 📷 Screenshots
 
-![Image](https://github.com/user-attachments/assets/a2c03149-f682-4196-b52a-944da7c60c9a)
+![Image](https://github.com/user-attachments/assets/29c0d25b-3dfc-4c6e-9a36-07e6bf93c76d)
 
-![Image](https://github.com/user-attachments/assets/0ff650c1-3b91-476c-a80b-c7048de78d39)
+![Image](https://github.com/user-attachments/assets/ffcde066-eb22-409a-8a84-9529d15b8997)
 
-![Image](https://github.com/user-attachments/assets/9abb6e53-53bf-48c6-91b4-597a27306f93)
+![Image](https://github.com/user-attachments/assets/e328f435-2dd5-4d3a-9d37-c8846eddd5ce)
 
-![Image](https://github.com/user-attachments/assets/6b1d14ee-8a69-4db4-8bb3-6ded3496aeb1)
+![Image](https://github.com/user-attachments/assets/5cf20e9f-6423-4a35-a6fb-7a2ddf378439)
 
-![Image](https://github.com/user-attachments/assets/83417a85-394c-4731-a456-0adaebfc0e15)
+![Image](https://github.com/user-attachments/assets/b656f7b5-73f0-4d0e-bb8b-33ec31e0ec50)
 
 ## 🔹 Key Features
 
